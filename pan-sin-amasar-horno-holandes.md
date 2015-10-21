@@ -1,5 +1,7 @@
 # Pan sin amasar en horno holandés 
 
+![Paaaaan](img/pan-sin-amasar-horno-holandes.jpg =640x)
+
 Esta receta la encontramos [aquí](http://www.thecookierookie.com/dutch-oven-bread/), y hacía referencia a [esta otra receta](http://www.jocooks.com/bakery/breads/crusty-bread/).
 
 
@@ -19,3 +21,8 @@ Esta receta la encontramos [aquí](http://www.thecookierookie.com/dutch-oven-bre
 
 
 ## Preparación
+
+- Mezclamos en el bol todos los elementos secos: harina sal y levadura. 
+- Incorporamos el chorrito de aceite y vamos echando el agua poco a poco hasta que quede todo mezclado. La mezcla queda bastante pegajosa y parece que no tiene ningún futuro, pero la cosa mejora luego.
+- Tapamos el bol con film y lo dejamos durante que fermente durante la noche (8h-12h)
+- Precalentamos el horno a 240ºC (450ºF). Mete la cazuela también dentro del horno para que se caliente también.
