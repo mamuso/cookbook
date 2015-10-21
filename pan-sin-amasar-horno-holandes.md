@@ -1,6 +1,6 @@
 # Pan sin amasar en horno holandés 
 
-<img src="/mamuso/cookbook/raw/master/img/pan-sin-amasar-horno-holandes.jpg" alt="Paaaaan" style="width:640px;">
+<img src="/mamuso/cookbook/raw/master/img/pan-sin-amasar-horno-holandes.jpg" alt="Paaaaan" style="width:640px">
 
 Esta receta la encontramos [aquí](http://www.thecookierookie.com/dutch-oven-bread/), y hacía referencia a [esta otra receta](http://www.jocooks.com/bakery/breads/crusty-bread/).
 
