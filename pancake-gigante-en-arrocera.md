@@ -1,4 +1,4 @@
-# Pancake gigante hecho en arrocera 
+# Pancake gigante hecho en una arrocera 
 
 <img src="/img/pancake-gigante-en-arrocera.jpg" width="640">
 
