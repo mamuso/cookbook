@@ -26,3 +26,6 @@ Esta receta la encontramos [aquí](http://www.thecookierookie.com/dutch-oven-bre
 - Incorporamos el chorrito de aceite y vamos echando el agua poco a poco hasta que quede todo mezclado. La mezcla queda bastante pegajosa y parece que no tiene ningún futuro, pero la cosa mejora luego.
 - Tapamos el bol con film y lo dejamos durante que fermente durante la noche (8h-12h)
 - Precalentamos el horno a 240ºC (450ºF). Mete la cazuela también dentro del horno para que se caliente también.
+- Con las manos y la mesa llena de harina intentamos darle forma a la masa. Está blandita y es bastante pegajosa, así que lo más cómodo es ir haciéndole pliegues
+- Metemos la masa en la cazuela, la tapamos y la metemos en el horno durante 30 minutos.
+- Pasado ese tiempo, quitamos la tapa de la cazuela y cocemos otros 15-20 minutos.
