@@ -1,6 +1,6 @@
 # Pancake gigante hecho en arrocera 
 
-<img src="/img/pan-sin-amasar-horno-holandes.jpg" width="640">
+<img src="/img/pancake-gigante-en-arrocera.jpg" width="640">
 
 Esta receta la encontramos [aquí](http://veryculinary.com/2014/07/06/giant-pancake/).
 
