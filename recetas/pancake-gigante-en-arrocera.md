@@ -1,6 +1,6 @@
 # Pancake gigante hecho en una arrocera 
 
-<img src="/img/pancake-gigante-en-arrocera.jpg" width="640">
+<img src="/recetas/img/pancake-gigante-en-arrocera.jpg" width="640">
 
 Esta receta la encontramos [aquí](http://veryculinary.com/2014/07/06/giant-pancake/). Es de lejos el pancake más limpio que hemos hecho jamás.
 

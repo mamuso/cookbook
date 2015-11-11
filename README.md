@@ -6,8 +6,8 @@ En casa nos encanta cocinar. En casa tenemos mala memoria. Mi madre tenía una l
 - Curry de pollo
 - Kulfi de pistacho
 - Naan
-- [Pan sin amasar en horno holandés](pan-sin-amasar-horno-holandes.md)
-- [Pancake gigante hecho en una arrocera](pancake-gigante-en-arrocera.md)
+- [Pan sin amasar en horno holandés](recetas/pan-sin-amasar-horno-holandes.md)
+- [Pancake gigante hecho en una arrocera](recetas/pancake-gigante-en-arrocera.md)
 - Tikka masala
 - Tortilla de patatas
-- Rollos de canela
+- Rollitos de canela
