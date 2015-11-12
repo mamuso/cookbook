@@ -9,5 +9,5 @@ En casa nos encanta cocinar. En casa tenemos mala memoria. Mi madre tenía una l
 - [Pan sin amasar en horno holandés](recetas/pan-sin-amasar-horno-holandes.md)
 - [Pancake gigante hecho en una arrocera](recetas/pancake-gigante-en-arrocera.md)
 - Tikka masala
-- Tortilla de patatas
-- Rollitos de canela
+- Tortilla de patata
+- [Rollitos de canela](recetas/rollitos-de-canela.md)
