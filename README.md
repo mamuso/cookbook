@@ -3,7 +3,7 @@
 En casa nos encanta cocinar. En casa tenemos mala memoria. Mi madre tenía una libreta con recetas, en casa tenemos un repositorio.
 
 - Almejas con salsita picante
-- Curry de pollo
+- [Curry de pollo](recetas/curry-de-pollo.md)
 - Kulfi de pistacho
 - Naan
 - [Pan sin amasar en horno holandés](recetas/pan-sin-amasar-horno-holandes.md)
